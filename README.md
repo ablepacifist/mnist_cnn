@@ -1,5 +1,4 @@
 
-```markdown
 # A4P4: Manual and High-Level CNN Implementation
 
 ## Overview
