@@ -16,7 +16,7 @@ The project allows you to choose between:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/A4P4.git
+git clone git@github.com:ablepacifist/mnist_cnn.git
 cd A4P4
 ```
 
