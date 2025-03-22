@@ -1,4 +1,5 @@
 
+```markdown
 # A4P4: Manual and High-Level CNN Implementation
 
 ## Overview
@@ -15,7 +16,7 @@ The project allows you to choose between:
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:ablepacifist/mnist_cnn.git
+git clone https://github.com/yourusername/A4P4.git
 cd A4P4
 ```
 
